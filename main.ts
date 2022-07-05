@@ -1,3 +1,3 @@
-basic.forever(function () {
-	
-})
+/**
+ * leave empty (this is a tutorial)
+ */
